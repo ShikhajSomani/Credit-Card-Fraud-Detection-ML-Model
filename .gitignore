@@ -1,0 +1,10 @@
+# Ignore datasets
+creditcard.csv
+*.csv
+
+# Ignore cache files
+__pycache__/
+*.pyc
+
+# (Optional) Ignore environment files
+.env
